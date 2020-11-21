@@ -20,7 +20,7 @@ npm start or yarn start - Start the application
 ```
 
 ## Link 
-[Tic-Tac-Toe App](https://dinosaurs.vercel.app/)
+[Tic-Tac-Toe App](https://tic-tac-toe-gamma-five.vercel.app/)
 
 ## License
 
