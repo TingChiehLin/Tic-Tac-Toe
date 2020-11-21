@@ -1,0 +1,20 @@
+.square {
+    width: 20rem;
+    height: 18rem;
+    border: 1px solid black;
+    margin-right: 0px;
+    margin-top: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.square:hover {
+    background-color: rgb(255, 163, 43);
+    cursor: pointer;
+}
+
+.play_turn {
+    font-size: 64px;
+    color: white;
+}
